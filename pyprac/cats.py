@@ -8,5 +8,3 @@ while True:
 print("The Cat Names are:")
 for name in catNames:
     print(' ' + name)
-
-sudo iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 22 -j DNAT --to-destination 192.168.0.111
