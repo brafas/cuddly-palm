@@ -1,0 +1,145 @@
+<div class="js-merch-stash-check-listing block-grid-item v2-listing-card position-relative pb-xs-0 " data-behat-listing-card="" data-listing-id="481904937" data-palette-listing-id="481904937" data-shop-id="">
+ <a class=" display-inline-block listing-link" data-behat-search-organic-link="" data-listing-id="481904937" data-palette-listing-image="" href="https://www.etsy.com/listing/481904937/sergal-warrior-furry-fantasy-armor?ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=furry&amp;ref=sr_gallery-1-1" title="Sergal warrior furry fantasy armor collection fandom furrie gift figurine statuette sculpture clay acrilic paits lance">
+  <div class="v2-listing-card__img overflow-hidden mb-xs-1 position-relative">
+   <div>
+    <div class="placeholder placeholder-landscape">
+     <div class="placeholder-content ">
+      <img alt="Sergal warrior furry fantasy armor collection fandom furrie gift figurine statuette sculpture clay acrilic paits lance" class="placeholder placeholder-landscape width-full " src="https://img1.etsystatic.com/211/1/13777173/il_340x270.1443845901_8j4t.jpg">
+      </img>
+     </div>
+    </div>
+    <div class="position-absolute position-bottom position-right position-left">
+    </div>
+   </div>
+  </div>
+  <div class="v2-listing-card__info">
+   <p class="text-gray text-truncate mb-xs-0 text-body">
+    Sergal warrior furry fantasy armor collection fandom furrie gift figurine statuette sculpture clay acrilic paits lance
+   </p>
+   <div class="v2-listing-card__shop">
+    <p class="text-gray-lighter text-body-smaller display-inline-block mr-xs-1">
+     WolfberryCrafts
+    </p>
+    <div class="v2-listing-card__rating icon-t-2">
+     <div class="stars-svg stars-smaller ">
+      <input name="initial-rating" type="hidden" value="5"/>
+      <input name="rating" type="hidden" value="5"/>
+      <span class="screen-reader-only">
+       5 out of 5 stars
+      </span>
+      <div aria-hidden="true" class="rating lit rating-first icon-b-2" data-rating="1">
+       <span class="etsy-icon stars-svg-star" title="Disappointed">
+        <svg aria-hidden="true" focusable="false" viewbox="3 3 18 18" xmlns="http://www.w3.org/2000/svg">
+         <path d="M19.985,10.36a0.5,0.5,0,0,0-.477-0.352H14.157L12.488,4.366a0.5,0.5,0,0,0-.962,0l-1.67,5.642H4.5a0.5,0.5,0,0,0-.279.911L8.53,13.991l-1.5,5.328a0.5,0.5,0,0,0,.741.6l4.231-2.935,4.215,2.935a0.5,0.5,0,0,0,.743-0.6l-1.484-5.328,4.306-3.074A0.5,0.5,0,0,0,19.985,10.36Z">
+         </path>
+        </svg>
+       </span>
+       <div class="rating lit" data-rating="2">
+        <span class="etsy-icon stars-svg-star" title="Not a fan">
+         <svg aria-hidden="true" focusable="false" viewbox="3 3 18 18" xmlns="http://www.w3.org/2000/svg">
+          <path d="M19.985,10.36a0.5,0.5,0,0,0-.477-0.352H14.157L12.488,4.366a0.5,0.5,0,0,0-.962,0l-1.67,5.642H4.5a0.5,0.5,0,0,0-.279.911L8.53,13.991l-1.5,5.328a0.5,0.5,0,0,0,.741.6l4.231-2.935,4.215,2.935a0.5,0.5,0,0,0,.743-0.6l-1.484-5.328,4.306-3.074A0.5,0.5,0,0,0,19.985,10.36Z">
+          </path>
+         </svg>
+        </span>
+        <div class="rating lit" data-rating="3">
+         <span class="etsy-icon stars-svg-star" title="It's okay">
+          <svg aria-hidden="true" focusable="false" viewbox="3 3 18 18" xmlns="http://www.w3.org/2000/svg">
+           <path d="M19.985,10.36a0.5,0.5,0,0,0-.477-0.352H14.157L12.488,4.366a0.5,0.5,0,0,0-.962,0l-1.67,5.642H4.5a0.5,0.5,0,0,0-.279.911L8.53,13.991l-1.5,5.328a0.5,0.5,0,0,0,.741.6l4.231-2.935,4.215,2.935a0.5,0.5,0,0,0,.743-0.6l-1.484-5.328,4.306-3.074A0.5,0.5,0,0,0,19.985,10.36Z">
+           </path>
+          </svg>
+         </span>
+         <div class="rating lit" data-rating="4">
+          <span class="etsy-icon stars-svg-star" title="Like it">
+           <svg aria-hidden="true" focusable="false" viewbox="3 3 18 18" xmlns="http://www.w3.org/2000/svg">
+            <path d="M19.985,10.36a0.5,0.5,0,0,0-.477-0.352H14.157L12.488,4.366a0.5,0.5,0,0,0-.962,0l-1.67,5.642H4.5a0.5,0.5,0,0,0-.279.911L8.53,13.991l-1.5,5.328a0.5,0.5,0,0,0,.741.6l4.231-2.935,4.215,2.935a0.5,0.5,0,0,0,.743-0.6l-1.484-5.328,4.306-3.074A0.5,0.5,0,0,0,19.985,10.36Z">
+            </path>
+           </svg>
+          </span>
+          <div class="rating lit" data-rating="5">
+           <span class="etsy-icon stars-svg-star" title="Love it">
+            <svg aria-hidden="true" focusable="false" viewbox="3 3 18 18" xmlns="http://www.w3.org/2000/svg">
+             <path d="M19.985,10.36a0.5,0.5,0,0,0-.477-0.352H14.157L12.488,4.366a0.5,0.5,0,0,0-.962,0l-1.67,5.642H4.5a0.5,0.5,0,0,0-.279.911L8.53,13.991l-1.5,5.328a0.5,0.5,0,0,0,.741.6l4.231-2.935,4.215,2.935a0.5,0.5,0,0,0,.743-0.6l-1.484-5.328,4.306-3.074A0.5,0.5,0,0,0,19.985,10.36Z">
+             </path>
+            </svg>
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <span class="text-body-smaller text-gray-lighter display-inline-block vertical-align-middle icon-b-1">
+      (37)
+     </span>
+    </div>
+   </div>
+   <p class="n-listing-card__price text-gray strong mt-xs-0">
+    <span class="currency-symbol">
+     $
+    </span>
+    <span class="currency-value">
+     55.00
+    </span>
+   </p>
+   <!-- This shows Free shipping on its own line , we only show it if it wasn't shown above -->
+   <div class="text-danger text-body-smaller">
+    Only 1 left
+   </div>
+  </div>
+ </a>
+ <a class="show-md show-lg show-xl show-tv text-orange text-body-smaller v2-listing-card__see-more-link" href="/listing/481904937/similar?ref=more_like_this" rel="nofollow">
+  See similar items +
+ </a>
+ <a class="pb-xs-1 pt-xs-1 text-gray-lighter text-body-smaller show-sm show-xs v2-listing-card__see-more-link__mobile" href="/listing/481904937/similar?ref=more_like_this" rel="nofollow">
+  More like this
+  <span class="etsy-icon icon-r-4 icon-b-1 icon-smaller">
+   <svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10,17a1,1,0,0,1-.707-1.707L12.586,12,9.293,8.707a1,1,0,0,1,1.414-1.414L15.414,12l-4.707,4.707A1,1,0,0,1,10,17Z">
+    </path>
+   </svg>
+  </span>
+ </a>
+ <div class="v2-listing-card__actions z-index-1 position-absolute">
+  <div class="v2-listing-card__favorite favorite-container" data-accessible-btn-fave="" data-listing-id="481904937" role="button" tabindex="0">
+   <span class="etsy-icon not-favorited position-absolute text-white inline-overlay-trigger favorite-item-action " data-attributee-id="" data-attribution-source="" data-btn-fave="" data-can-refavorite="" data-logging-="" data-position="" data-shop-id="" data-shop-shop-id="" data-shop-user-id="" data-source="casanova-search">
+    <svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+     <path d="M12,21C10.349,21,2,14.688,2,9,2,5.579,4.364,3,7.5,3A6.912,6.912,0,0,1,12,5.051,6.953,6.953,0,0,1,16.5,3C19.636,3,22,5.579,22,9,22,14.688,13.651,21,12,21ZM7.5,5C5.472,5,4,6.683,4,9c0,4.108,6.432,9.325,8,10,1.564-.657,8-5.832,8-10,0-2.317-1.472-4-3.5-4-1.979,0-3.7,2.105-3.721,2.127L11.991,8.1,11.216,7.12C11.186,7.083,9.5,5,7.5,5Z">
+     </path>
+    </svg>
+   </span>
+   <span class="etsy-icon favorited position-absolute">
+    <svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+     <path d="M16.5,3A6.953,6.953,0,0,0,12,5.051,6.912,6.912,0,0,0,7.5,3C4.364,3,2,5.579,2,9c0,5.688,8.349,12,10,12S22,14.688,22,9C22,5.579,19.636,3,16.5,3Z">
+     </path>
+    </svg>
+   </span>
+   <!--icon font and display:none; elements -->
+   <span aria-hidden="true" class="icon">
+   </span>
+   <span class="screen-reader-only default">
+    Favorite
+   </span>
+   <span class="screen-reader-only done remove">
+    Favorited
+   </span>
+   <span class="ie-fix">
+   </span>
+  </div>
+  <div class="collect-container display-none" data-listing-id="481904937">
+   <button class="btn-collect btn-dropdown inline-overlay-trigger collection-add-action " data-source="casanova-search" type="button">
+    <span aria-hidden="true" class="icon">
+    </span>
+    <span class="screen-reader-only default">
+     Add to
+    </span>
+    <span class="screen-reader-only done remove">
+     Added
+    </span>
+    <span class="icon-dropdown">
+    </span>
+    <span class="ie-fix">
+    </span>
+   </button>
+  </div>
+ </div>
+</div>
