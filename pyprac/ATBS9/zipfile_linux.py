@@ -14,4 +14,8 @@ zipfo = (ezip.getinfo("spam.txt"))
 print(zipfo.file_size)
 print(zipfo.compress_size)
 print('Compressed size is %sx smaller!' % (round(zipfo.file_size / zipfo.compress_size, 2)))
+print('Extracting files...')
+ezip.extractall('example_files') # You can pass a foldername, it will be created if it doesn't exist.
+ezip.extract('spam.txt', homedir + '/py/cuddly-palm/pyprac/ATBS9/ziptest')
 ezip.close()
+
