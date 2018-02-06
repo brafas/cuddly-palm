@@ -38,7 +38,7 @@ def sumBytes():
         bytesSum += x[1]
     print('Total folder size: ' + human_Read(bytesSum)) #Sum of all files.
     bigFile = sorted(bytes_list, key=hiByte, reverse=True)[0]
-    print('The largest file is: ' +  os.path.basename(bigFile[0]) + ' at '+ str(bigFile[2])) #Print the largest file name and size
+    print('The largest file is: ' + os.path.basename(bigFile[0]) + ' at '+ str(bigFile[2])) #Print the largest file name and size
 
 bytes_list = sorted(bytes_list, key=hiByte, reverse=True)
 for i in bytes_list:
