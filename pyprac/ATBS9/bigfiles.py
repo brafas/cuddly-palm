@@ -4,7 +4,7 @@ import os
 # Return Human Readable file sizes, displayed next to the file name/path.
 # Sort by size.
 
-path = os.path.abspath('.') + os.sep
+path = os.path.abspath(os.curdir) #+ os.sep # If using split(), a os.sep will return as a '' list entry.
 bytes_list = []
 
 def human_Read(bytes):
@@ -15,22 +15,19 @@ def human_Read(bytes):
         return byteStr + ' bytes'
     elif 1000 <= bytes < 999999:
         return str(round(bytes/10e2, 1)) + " KB"
-        # return str(round(bytes, -(numInts - 2)))[:2] + " KB"
     elif numInts >= 7 and numInts < 10:
         return str(int(bytes/10e5)) + " MB"
-        # byteStr = str(round(bytes, -(numInts - 3)))
-        # return byteStr + ' mB'
 
 # f = open("sizes.txt", 'w')
 
 
 for folder, subfolders, files, in os.walk(path):
+    pathBase = os.path.basename(folder)
     for filename in files:
-        newPath = os.path.abspath(filename)
-        print(newPath)
+        newPath =(os.path.abspath(folder) + os.sep + filename) #Should return the correct directory recursively.
         bytesize = os.path.getsize(newPath)
         result = human_Read(os.path.getsize(newPath))
-        bytes_list.append((path + filename, bytesize, result))
+        bytes_list.append((newPath, bytesize, result))
 
 def hiByte(item):
     return item[1] # using this as a key for sorted() will return the 2nd item in the tuple.
@@ -44,7 +41,8 @@ def sumBytes():
     print('The largest file is: ' +  os.path.basename(bigFile[0]) + ' at '+ str(bigFile[2])) #Print the largest file name and size
 
 bytes_list = sorted(bytes_list, key=hiByte, reverse=True)
-print(bytes_list)
+for i in bytes_list:
+    print(i)
 sumBytes()
 # f.close()
 
