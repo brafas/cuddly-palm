@@ -43,8 +43,11 @@ def sumBytes():
 def extCount():
     count = 0
     for base in bytes_list:
-        if os.path.basename(base[0]).endswith(".py"):
-            count +=1
+        base = os.path.basename(base[0])
+        fname, fext = os.path.splitext(base) # Returns a tuple, the filename and the extension
+        print(fname + fext)
+        if base.endswith(".py"):
+            count += 1
         #os.path.splitext(path)
     print(str(count) + ' .py files')
 
