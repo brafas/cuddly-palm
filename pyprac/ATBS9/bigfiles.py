@@ -41,16 +41,25 @@ def sumBytes():
     print('The largest file is: ' + os.path.basename(bigFile[0]) + ' at '+ str(bigFile[2])) #Print the largest file name and size
 
 def extCount():
-    count = 0
+    fextList = [] # make a list of the file extensions. List of tuples to count how many of each extension?
+    fexts = [] # this will be the tuple
     for base in bytes_list:
-        base = os.path.basename(base[0])
-        fname, fext = os.path.splitext(base) # Returns a tuple, the filename and the extension
-        print(fname + fext)
-        if base.endswith(".py"):
-            count += 1
-        #os.path.splitext(path)
-    print(str(count) + ' .py files')
+        base = os.path.basename(base[0]) #act on the first entry in the tuple.
+        fname, fext = os.path.splitext(base) # Returns a tuple, the filename and the extension, fext is the extension
+        fexts.append(fext)
 
+
+        #os.path.splitext(path)
+    for i in range(len(fexts)): #Look into using enumerate() instead.
+        if fexts[i] == fexts[i + 1]:
+        #  fix this, list item must match next. Maybe a Row for each different extension returned?
+            print(fexts[i] + " matched")
+        else:
+            newFext = fexts.pop(i+1) #Returns the "unmatched" extension
+            print(newFext)
+            print("Not match")
+    fextList.append(fexts) #Fexts is now a list, let's append it to the main Fext List.
+    print(fextList)
 
 bytes_list = sorted(bytes_list, key=hiByte, reverse=True)
 for i in bytes_list:
