@@ -40,10 +40,20 @@ def sumBytes():
     bigFile = sorted(bytes_list, key=hiByte, reverse=True)[0]
     print('The largest file is: ' + os.path.basename(bigFile[0]) + ' at '+ str(bigFile[2])) #Print the largest file name and size
 
+def extCount():
+    count = 0
+    for base in bytes_list:
+        if os.path.basename(base[0]).endswith(".py"):
+            count +=1
+        #os.path.splitext(path)
+    print(str(count) + ' .py files')
+
+
 bytes_list = sorted(bytes_list, key=hiByte, reverse=True)
 for i in bytes_list:
     print(i)
 sumBytes()
+extCount()
 # f.close()
 
 # 1000 = 1 kb
