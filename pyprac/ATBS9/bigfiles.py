@@ -1,9 +1,10 @@
+#!python3
 import os
 
 # Return Human Readable file sizes, displayed next to the file name/path.
 # Sort by size.
 
-path = os.path.abspath('.') + '\\'
+path = os.path.abspath('.') + os.sep
 bytes_list = []
 
 def human_Read(bytes):
@@ -25,8 +26,10 @@ def human_Read(bytes):
 
 for folder, subfolders, files, in os.walk(path):
     for filename in files:
-        bytesize = os.path.getsize(path+filename)
-        result = human_Read(os.path.getsize(path+filename))
+        newPath = os.path.abspath(filename)
+        print(newPath)
+        bytesize = os.path.getsize(newPath)
+        result = human_Read(os.path.getsize(newPath))
         bytes_list.append((path + filename, bytesize, result))
 
 def hiByte(item):
