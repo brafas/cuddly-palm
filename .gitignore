@@ -5,3 +5,5 @@ pyprac/makefile.txt
 test.txt
 *.xml
 .idea/workspace.xml
+.idea/cuddly-palm.iml
+.idea/workspace.xml
