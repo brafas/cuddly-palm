@@ -31,7 +31,6 @@ for folder, subfolders, files, in os.walk(path):
 
 def hiByte(item):
     return item[1] # using this as a key for sorted() will return the 2nd item in the tuple.
-
 def sumBytes():
     bytesSum = 0
     for x in bytes_list:
